@@ -30,6 +30,7 @@ bin/
 
 ### Document ###
 .idea
+*.xml
 *.iml
 out
 
